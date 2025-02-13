@@ -1,0 +1,31 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de entrenamiento y pesos
+runs/
+*.pt
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de dataset
+datasets/
+*.yaml
+
+# Logs y resultados
+*.log
+results/ 
